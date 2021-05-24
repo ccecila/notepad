@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="096fc426-540c-4426-80b5-5e94ecc45a60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1sytbJcd7wPQYzX0L9HLdewJYyr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../AndroidStudioSDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="096fc426-540c-4426-80b5-5e94ecc45a60" name="Default Changelist" comment="" />
+      <created>1621856726073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621856726073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1621859417987">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1621859417987" />
+    <state x="0" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621860334783">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="0" y="32" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1621860334783" />
+    <state x="94" y="94" width="1093" height="573" key="AVDManager" timestamp="1621861167864">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="94" width="1093" height="573" key="AVDManager/0.0.1280.760@0.0.1280.760" timestamp="1621861167864" />
+    <state x="421" y="121" key="FileChooserDialogImpl" timestamp="1621858049269">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="421" y="121" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1621858049269" />
+    <state x="74" y="49" key="SettingsEditor" timestamp="1621859633363">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="74" y="49" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1621859633363" />
+    <state x="438" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621857935669">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="438" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.760@0.0.1280.760" timestamp="1621857935669" />
+    <state x="297" y="170" key="run.anything.popup" timestamp="1621861801079">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="297" y="170" key="run.anything.popup/0.0.1280.760@0.0.1280.760" timestamp="1621861801079" />
+  </component>
+</project>
