@@ -36,4 +36,4 @@ import java.util.Date;
         values.put(NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE, time);
 
 7.运行结果截图：
-![image](https://github.com/ccecila/notepad/images/$[[105FR5UU}9XSWV0Z95YL.png)
+![image](https://github.com/ccecila/notepad/blob/main/images/%24%5B%5B105FR5UU%7D9XSWV0Z95YL.png)
